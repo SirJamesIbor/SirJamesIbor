@@ -2,7 +2,7 @@
 
 Data Analyst | Excel, SQL, Power BI, Python | Turning messy data into insightful decisions | Abuja, Nigeria
 
-##Skills
+## Skills
 
 **Tools & Language:** Microsoft Excel | Power BI | SQL | Google Sheets | Python
 
