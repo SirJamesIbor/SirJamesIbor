@@ -1,4 +1,4 @@
-# Hi I'm SirJae 👋
+# Hi I'm Sir-James 👋
 
 Data Analyst | Excel, SQL, Power BI, Python | Turning messy data into insightful decisions | Abuja, Nigeria
 
