@@ -10,7 +10,7 @@
 
 ## Featured Projects
 
-**NGO Beneficiary Management System (Link-coming-soon)**
+**NGO Beneficiary Management System** **(https://github.com/SirJamesIbor/NGO-Beneficiary-Management-System)**
 
 Excel-based Data mangement system tracking over 1500 beneficiaries for Babs and Friends Care Foundation, to support reporting and program decisions.
 
@@ -18,9 +18,6 @@ Excel-based Data mangement system tracking over 1500 beneficiaries for Babs and 
 
 Excel-based analysis exploring how Mental Health status, Workplace support, and Work model (Remote/Hybrid/On-site) relate to productivity and absenteeism across 10,000 Employee records.
 
-**Social Media Sentiment Analysis (link soon)**
-
-Python pipeline analyzing sentiment across social media data, consolidating granular emotion labels into 3 core sentiment categories (Positive, Negative, Neutral)
 
 ## Let's work together
 **Available for all your freelance data analytics projects - reach out via https//www.linkedin.com/in/jamesstephen1**
