@@ -12,7 +12,7 @@
 
 **NGO Beneficiary Management System** **(https://github.com/SirJamesIbor/NGO-Beneficiary-Management-System)**
 
-Excel-based Data mangement system tracking over 1500 beneficiaries for Babs and Friends Care Foundation, to support reporting and program decisions.
+Excel-based beneficiary data management system, built for program tracking and budget monitoring for a Non Governmental Organization, covering 1,600 beneficiaries across 5 support programs, to support reporting and program decisions.
 
 **Workplace Mental Health Productivity Analysis** **(https://github.com/SirJamesIbor/Workplace-Mental-Health-Productivity-Analysis)**
 
