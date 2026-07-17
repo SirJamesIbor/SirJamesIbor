@@ -1,6 +1,6 @@
 # Hi I'm Sir-James 👋
 
-**Data Analyst | Excel. Google Sheet. SQL. Power BI. Python | Turning messy data into insightful decisions | Abuja, Nigeria**
+**B.Sc. Computer Science | Data Analyst | Excel Trainer| Google Sheet. SQL. Power BI. Python | Turning messy data into insightful decisions | Abuja, Nigeria**
 
 ## Skills
 
